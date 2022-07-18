@@ -1,0 +1,11 @@
+.commentUserInfo{
+    width: 90px;
+    height: 150px;
+    background: rgb(250, 112, 88);
+    margin-bottom: 10px;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+    box-shadow: 1px 1px 3px 2px black;
+}

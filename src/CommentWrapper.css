@@ -1,0 +1,11 @@
+.backraund {
+    width: 82px;
+    height: 95px;
+    background:rgb(250, 112, 88);
+    margin: 0 auto;
+    text-align: center;
+    font-size: 13px;
+    box-shadow: 2px 3px 2px black;
+    margin-top: 20px;
+    
+}
